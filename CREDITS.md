@@ -26,7 +26,7 @@ Included tests:
 ## Distribution
 
 Packaging, install scripts, documentation:
-- Author: [Your Name]
+- Author: PanVK Custom (community)
 - Date: 2026-09-14
 - License: MIT
 
