@@ -159,3 +159,11 @@ MIT. See LICENSE file.
 - PanVK compute + graphics verified
 - Zink OpenGL confirmed working
 - Test suite included
+
+## DMA Heap SELinux Module (KernelSU)
+
+Solve dma-heap permission denied untuk hardware present path.
+
+Location: modules/dma_heap_selinux_fix/
+
+Result: vkcube FPS 98 → 130 (+32%) dengan SELinux Enforcing.

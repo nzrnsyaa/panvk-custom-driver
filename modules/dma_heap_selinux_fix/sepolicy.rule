@@ -1,0 +1,12 @@
+# DMA Heap SELinux Policy for PanVK
+# Allow Termux + emulator contexts to access dma_heap
+
+# Termux context
+allow untrusted_app_27 dmabuf_system_heap_device chr_file { read write open ioctl map getattr }
+allow untrusted_app_27 dmabuf_system_heap_device dir { search open read }
+allow untrusted_app_27 dmabuf_heap_device dir { search open read }
+
+# Generic app context
+allow untrusted_app dmabuf_system_heap_device chr_file { read write open ioctl map getattr }
+allow untrusted_app dmabuf_system_heap_device dir { search open read }
+allow untrusted_app dmabuf_heap_device dir { search open read }

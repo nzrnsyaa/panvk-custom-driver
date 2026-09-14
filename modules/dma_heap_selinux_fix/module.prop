@@ -1,0 +1,6 @@
+id=dma_heap_selinux_fix
+name=DMA Heap SELinux for PanVK
+version=1.0
+versionCode=1
+author=PanVK-Custom
+description=Allow untrusted_app to access dmabuf_system_heap_device for PanVK hardware present
