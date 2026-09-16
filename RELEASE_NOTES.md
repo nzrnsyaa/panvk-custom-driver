@@ -29,7 +29,7 @@ First public release of PanVK Custom Driver for Mali-G615 MC6.
 - Device: Infinix X6873
 - SoC: MediaTek Dimensity 8350
 - GPU: Mali-G615 MC6
-- OS: Android 15, Termux
+- OS: Android 16, Termux
 
 ## Known Issues
 

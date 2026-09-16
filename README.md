@@ -9,7 +9,7 @@ Verified working on:
 - Device: Infinix X6873
 - SoC: MediaTek Dimensity 8350
 - GPU: Mali-G615 MC6 (Valhall v11)
-- OS: Android 15, Termux (Bionic arm64)
+- OS: Android 16, Termux (Bionic arm64)
 - Kernel: kbase CSF uAPI 1.21
 
 ## Features
