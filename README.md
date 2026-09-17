@@ -18,7 +18,7 @@ Verified working on:
 |---------|--------|
 | Vulkan 1.4 (PanVK) | OK |
 | Vulkan Compute | OK - 8/8 tests PASS |
-| Vulkan Graphics (vkcube) | OK - 100 FPS |
+| Vulkan Graphics (vkcube) | OK - 114 FPS |
 | OpenGL 3.3 Core (via Zink) | OK |
 | OpenGL ES 3.1 (via Zink) | OK |
 | MPV video playback | OK |

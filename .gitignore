@@ -1,9 +1,10 @@
 *.so
 *.so.*
+*.tar.gz
+*.zip
 logs/*.txt
 logs/*.png
 logs/*.mp4
 tests/test_zink_triangle
 tests/test_zink_egl
 tests/testsrc.mp4
-*.tar.gz
